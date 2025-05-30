@@ -37,11 +37,11 @@ Install Requirements
 cd AI-Interviewer
 pip install -r requirements.txt
 ```
-Run Program
-```bash (Django server)
+Run Program (Django server) & (React Frontend) respectively
+```bash 
 python manage.py runserver
 ```
-```bash (React Frontend)
+```bash 
 npm install
 npm start
 ```

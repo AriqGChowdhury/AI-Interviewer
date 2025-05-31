@@ -212,4 +212,4 @@ class PreviousLeetcodeView(APIView):
     
 
 
-    #Create temporary screen where it shows the score, possibly a page dedicated to previous interviews
+    

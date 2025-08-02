@@ -125,7 +125,7 @@ class RequestResetView(APIView):
 #Generate Interview Quesetions
 def generate_questions(request):
     client = Groq(
-            api_key="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"
+            api_key=""
         )
 
     chat_completion = client.chat.completions.create(

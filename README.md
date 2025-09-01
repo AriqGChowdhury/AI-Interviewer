@@ -50,11 +50,8 @@ npm start
 
 Contact me at ariq922@hotmail.com
 
-## Demo
-
-Available at https://ariqgchowdhury.github.io/portfolio
-
-or Direct link: https://drive.google.com/file/d/1xW2dy08GnNH0DsD-YVTKnc5f7x_5G8HG/preview
+## Check out the site
+http://reselliq-frontend.s3-website-us-east-1.amazonaws.com/login
 
 ## License
 
